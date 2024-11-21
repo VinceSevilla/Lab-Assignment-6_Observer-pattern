@@ -26,3 +26,5 @@ Expected Behavior:
 Constraints:
 - The system should be scalable to handle a growing number of subscribers without compromising performance.
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
+
+![image](https://github.com/user-attachments/assets/ed910c94-986d-4820-9c4d-d5fb011acac8)
